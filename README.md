@@ -1,5 +1,5 @@
 ---
-title: Stable Diffusion
+title: Stable Diffusion 1.4
 emoji: 🏃
 colorFrom: red
 colorTo: red
